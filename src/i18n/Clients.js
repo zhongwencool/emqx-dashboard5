@@ -491,6 +491,10 @@ export default {
     zh: '模糊搜索',
     en: 'Fuzzy Search',
   },
+  fuzzySearchIpAddressRange: {
+    zh: '模糊搜索范围',
+    en: 'Fuzzy Search Range',
+  },
   pageJumpTip: {
     zh: '该页暂无数据，已自动跳转至第一页。',
     en: 'No data available on this page. Redirected to the first page.',
